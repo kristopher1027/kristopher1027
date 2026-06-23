@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Christopher 👋
+
+## About Me
+- Backend Developer
+- Frontend Developer
+- Learning Go (Golang)
+- Building Web Applications
+- Interested in Distributed Systems
+
+## Current Projects
+- ascii-art-web
+- vtu-platform
+- go-api-server
+- task-manager-api
+
+## Tech Stack
+- Go
+- PostgreSQL
+- HTML/CSS
+- Java Script
+- Python
+- Git & GitHub
+
+## Contact
+- Email: okohchristopher1027@gmail.com
+- LinkedIn: https://www.linkedin.com/in/okoh-christopher-2b98593ba/
