@@ -29,13 +29,24 @@ Here are some ideas to get you started:
 - go-api-server
 - task-manager-api
 
-## Tech Stack
-- Go
-- PostgreSQL
-- HTML/CSS
-- Java Script
-- Python
-- Git & GitHub
+## 🛠️ Tech Stack
+
+**Languages**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=go,rust,python,js,ts,c,cpp,bash,swift,kotlin&perline=10" />
+</p>
+
+**Frontend & Mobile**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,flutter,html,css,tailwind,figma,redux,graphql&perline=10" />
+</p>
+
+**Backend, Cloud & DevOps**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,docker,kubernetes,aws,azure,gcp,linux,git,postgresql,mysql,redis,nginx&perline=12" />
+</p>
+
+---
 
 ## Contact
 - Email: okohchristopher1027@gmail.com
