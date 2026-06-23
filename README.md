@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner">
+  <img src="./assets/banner.png" alt="Christopher Okoh Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Christopher Okoh</h1>
+<h1 align="center">Hi, I'm Christopher Okoh 👋</h1>
 
-<p align="center">
-  Backend Developer • Go Developer • API Builder
-</p>
 
 Backend-focused Software Developer passionate about building scalable web applications and learning distributed systems.
 
