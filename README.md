@@ -1,53 +1,92 @@
-## Hi there 👋
-
-<!--
-**kristopher1027/kristopher1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Christopher 👋
-
-## About Me
-- Backend Developer
-- Frontend Developer
-- Learning Go (Golang)
-- Building Web Applications
-- Interested in Distributed Systems
-
-## Current Projects
-- ascii-art-web
-- vtu-platform
-- go-api-server
-- task-manager-api
-
-## 🛠️ Tech Stack
-
-**Languages**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=go,rust,python,js,ts,c,cpp,bash,swift,kotlin&perline=10" />
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner">
 </p>
 
-**Frontend & Mobile**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,flutter,html,css,tailwind,figma,redux,graphql&perline=10" />
+<h1 align="center">Hi 👋, I'm Christopher Okoh</h1>
+
+<p align="center">
+  Backend Developer • Go Developer • API Builder
 </p>
 
-**Backend, Cloud & DevOps**
+Backend-focused Software Developer passionate about building scalable web applications and learning distributed systems.
+
+---
+
+## 🚀 About Me
+
+- Building backend applications with Go (Golang)
+- Developing REST APIs and web services
+- Working with PostgreSQL and database design
+- Exploring system design and distributed systems
+- Continuously improving problem-solving and software engineering skills
+
+---
+
+## 📌 Current Projects
+
+### ASCII Art Web
+A web application that converts text into ASCII art using Go templates and HTTP handlers.
+
+### VTU Platform
+A virtual top-up platform for airtime, data subscriptions, and bill payments.
+
+### Go API Server
+Learning API development, routing, middleware, authentication, and database integration.
+
+### Task Manager API
+Backend service for task management built with Go and PostgreSQL.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,docker,kubernetes,aws,azure,gcp,linux,git,postgresql,mysql,redis,nginx&perline=12" />
+  <img src="https://skillicons.dev/icons?i=go,js,ts,python,bash" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,postgresql,mysql,redis" />
+</p>
+
+### Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx" />
 </p>
 
 ---
 
-## Contact
-- Email: okohchristopher1027@gmail.com
-- LinkedIn: https://www.linkedin.com/in/okoh-christopher-2b98593ba/
+## 📚 Currently Learning
+
+- Advanced Go Concurrency
+- PostgreSQL Optimization
+- System Design
+- Docker & Containerization
+- Microservices Architecture
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kristopher1027&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kristopher1027&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+- Email: **okohchristopher1027@gmail.com**
+- LinkedIn: **linkedin.com/in/okoh-christopher-2b98593ba**
+
+---
+
+> "Building reliable software one commit at a time."
+
+
