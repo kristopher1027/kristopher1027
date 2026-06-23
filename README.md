@@ -66,7 +66,27 @@ Backend service for task management built with Go and PostgreSQL.
 - Microservices Architecture
 
 ---
+## 📊 GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorejike&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorejike&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=victorejike&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="60%"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victorejike&theme=react-dark&bg_color=0d1117&color=00E5FF&line=00E5FF&point=ffffff&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kristopher1027&show_icons=true)
