@@ -78,7 +78,7 @@ Backend service for task management built with Go and PostgreSQL.
 ## 📫 Connect With Me
 
 - Email: **okohchristopher1027@gmail.com**
-- LinkedIn: **linkedin.com/in/okoh-christopher-2b98593ba**
+- LinkedIn: **(https://www.linkedin.com/in/okoh-christopher-2b98593ba/)**
 
 ---
 
