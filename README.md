@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Christopher Okoh Banner">
+  <img src="./assets/banner.png" alt="![Project Banner](https://imgur.com)>
+
 </p>
 
 <h1 align="center">Hi, I'm Christopher Okoh 👋</h1>
