@@ -87,13 +87,7 @@ Backend service for task management built with Go and PostgreSQL.
 </p>
 
 ---
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kristopher1027&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kristopher1027&layout=compact)
-
----
 
 ## 📫 Connect With Me
 
