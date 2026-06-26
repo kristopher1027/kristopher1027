@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Christopher Okoh 👋</h1>
 
 
-Backend-focused Software Developer passionate about building scalable web applications and learning distributed systems.
+**Backend-focused Software Developer passionate about building scalable web applications and learning distributed systems.**
 
 ---
 
