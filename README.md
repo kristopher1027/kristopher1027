@@ -68,11 +68,11 @@ Backend service for task management built with Go and PostgreSQL.
 ---
 ## 📊 GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kristopher1027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF" height="170"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristopher1027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF" height="170"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kristopher1027&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="60%"/>
