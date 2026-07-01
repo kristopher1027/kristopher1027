@@ -1,124 +1,93 @@
+# Christopher Okoh - Portfolio Website
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Christopher+Okoh;Backend+Software+Developer;Building+Scalable+Systems" alt="Typing SVG" />
-</div>
+A beautiful, modern portfolio website built with React, Tailwind CSS, and Framer Motion.
 
-<div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/okoh-christopher-2b98593ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:okohchristopher1027@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/kristopher1027"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
-</div>
+## 🚀 Features
 
----
+- **Responsive Design** - Works seamlessly on mobile, tablet, and desktop
+- **Smooth Animations** - Beautiful transitions and interactions with Framer Motion
+- **Dark Theme** - Modern dark UI with cyan accents
+- **Optimized Performance** - Fast loading and smooth scrolling
+- **SEO Friendly** - Structured metadata and semantic HTML
+- **Easy to Customize** - Well-organized component structure
 
-## 🎯 About Me
+## 🛠 Tech Stack
 
-Backend-focused Software Developer passionate about **building scalable web applications**, **REST APIs**, and exploring **distributed systems**. I love solving complex problems and writing clean, maintainable code.
+- **React 18** - UI library
+- **Tailwind CSS** - Utility-first CSS framework
+- **Framer Motion** - Animation library
+- **React Icons** - Icon library
 
-- 🔧 Specializing in **Go (Golang)** for backend development
-- 📡 Building **REST APIs** and **web services**
-- 🗄️ Working with **PostgreSQL** and database design
-- 🏗️ Learning **System Design** and **Distributed Systems**
-- 🎓 Continuously improving problem-solving skills through **LeetCode** and **CodeCrafters** challenges
+## 📦 Getting Started
 
----
+### Prerequisites
+- Node.js (v14 or higher)
+- npm or yarn
 
-## 💼 Featured Projects
+### Installation
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **🎨 ASCII Art Web** | Converts text into ASCII art with a web interface | Go, HTML/CSS, HTTP handlers |
-| **💳 VTU Platform** | Virtual top-up platform for airtime, data & bill payments | Go, PostgreSQL, REST APIs |
-| **⚙️ Go API Server** | Learning REST API development with authentication & middleware | Go, PostgreSQL, JWT |
-| **✅ Task Manager API** | Backend service for task management and collaboration | Go, PostgreSQL, Docker |
+```bash
+# Clone the repository
+git clone https://github.com/kristopher1027/kristopher1027.git
+cd kristopher1027
 
----
+# Install dependencies
+npm install
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=go,js,ts,python,bash" />
-</div>
-
-### 🎨 Frontend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</div>
-
-### 🔌 Backend & Database
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,postgresql,mysql,redis" />
-</div>
-
-### 🚀 Tools & DevOps
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx" />
-</div>
-
----
-
-## 📚 Currently Learning
-
-```
-🔄 Advanced Go Concurrency        ▓▓▓▓▓░░░░ 50%
-🗄️  PostgreSQL Optimization      ▓▓▓▓▓▓▓░░░ 70%
-🏗️  System Design                 ▓▓▓▓░░░░░░ 40%
-🐳 Docker & Containerization     ▓▓▓▓▓▓░░░░ 60%
-🔗 Microservices Architecture     ▓▓▓▓░░░░░░ 40%
+# Start the development server
+npm start
 ```
 
----
+The portfolio will open at `http://localhost:3000`
 
-## 📊 GitHub Activity
+## 🎨 Customization
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kristopher1027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=8b949e" height="170" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristopher1027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=8b949e" height="170" alt="Top Languages"/>
-</div>
+### Colors
+Edit the Tailwind config in `tailwind.config.js` to customize colors.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kristopher1027&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="60%" alt="GitHub Streak"/>
-</div>
+### Content
+Update component content in `src/components/` to add your own:
+- About information
+- Projects
+- Skills
+- Contact details
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kristopher1027&theme=react-dark&bg_color=0d1117&color=00E5FF&line=00E5FF&point=ffffff&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
-</div>
+## 📝 Sections
 
----
+1. **Hero** - Eye-catching introduction
+2. **About** - Personal background and what you do
+3. **Projects** - Featured projects with links
+4. **Skills** - Technologies and tools
+5. **Learning** - Currently learning with progress bars
+6. **Contact** - Contact form and social links
 
-## 🎓 What I'm Building
+## 🚀 Deployment
 
-I'm focusing on:
-- ✅ Mastering **Go** and backend development
-- ✅ Understanding **system architecture** and scalability
-- ✅ Contributing to **open source** projects
-- ✅ Writing technical content and sharing knowledge
+### Deploy to Netlify
 
----
+1. Build the project:
+```bash
+npm run build
+```
 
-## 📫 Let's Connect!
+2. Connect your GitHub repository to Netlify
+3. Set build command: `npm run build`
+4. Set publish directory: `build`
 
-<div align="center">
-  <p>
-    <strong>Email:</strong> okohchristopher1027@gmail.com<br>
-    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/okoh-christopher-2b98593ba/">linkedin.com/in/okoh-christopher</a><br>
-    <strong>GitHub:</strong> <a href="https://github.com/kristopher1027">@kristopher1027</a>
-  </p>
-</div>
+### Deploy to Vercel
 
----
+```bash
+npm i -g vercel
+vercel
+```
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+## 📄 License
 
-<div align="center">
-  <p>
-    <i>💡 "Building reliable software one commit at a time."</i><br>
-    <sub>Made with ❤️ by Christopher Okoh</sub>
-  </p>
-</div>
+This project is open source and available under the MIT License.
+
+## 👨‍💻 Author
+
+**Christopher Okoh**
+- GitHub: [@kristopher1027](https://github.com/kristopher1027)
+- Email: okohchristopher1027@gmail.com
+- LinkedIn: [okoh-christopher](https://www.linkedin.com/in/okoh-christopher-2b98593ba/)
