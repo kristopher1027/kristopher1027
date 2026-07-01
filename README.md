@@ -107,6 +107,8 @@ I'm focusing on:
     <strong>Email:</strong> okohchristopher1027@gmail.com<br>
     <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/okoh-christopher-2b98593ba/">linkedin.com/in/okoh-christopher</a><br>
     <strong>GitHub:</strong> <a href="https://github.com/kristopher1027">@kristopher1027</a>
+    
+    <strong>Portfolio:</strong> <a href="https://https://kristopher1027.github.io/kristopher1027/">@kristopher1027</a>
   </p>
 </div>
 
