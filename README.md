@@ -64,9 +64,9 @@ Backend-focused Software Developer passionate about **building scalable web appl
 
 ```
 🔄 Advanced Go Concurrency        ▓▓▓▓▓░░░░ 50%
-🗄️  PostgreSQL Optimization      ▓▓▓▓▓▓▓░░░ 70%
+🗄️  PostgreSQL Optimization       ▓▓▓▓▓▓▓░░░ 70%
 🏗️  System Design                 ▓▓▓▓░░░░░░ 40%
-🐳 Docker & Containerization     ▓▓▓▓▓▓░░░░ 60%
+🐳 Docker & Containerization      ▓▓▓▓▓▓░░░░ 60%
 🔗 Microservices Architecture     ▓▓▓▓░░░░░░ 40%
 ```
 
