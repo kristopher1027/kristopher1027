@@ -74,8 +74,7 @@ Backend-focused Software Developer passionate about **building scalable web appl
 ---
 
 ## 📊 GitHub Activity
-
-<div align="center">
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kristopher1027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=8b949e" height="170" alt="GitHub Stats"/>
   &nbsp;
   
