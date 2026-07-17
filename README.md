@@ -78,12 +78,15 @@ Backend-focused Software Developer passionate about **building scalable web appl
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristopher1027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=8b949e" height="170" alt="Top Languages"/>
 </div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kristopher1027&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="60%" alt="GitHub Streak"/>
 </div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kristopher1027&theme=react-dark&bg_color=0d1117&color=00E5FF&line=00E5FF&point=ffffff&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
 </div>
+
 ---
 
 ## 🎓 What I'm Building
