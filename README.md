@@ -106,7 +106,7 @@ I'm focusing on:
   <p>
     <strong>Email:</strong> <a href="https://www.okohchristopher1027@gmail.com/">okohchristopher1027@gmail.com</a>
       <br>
-    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/okoh-christopher2b98593ba/">linkedin.com/in/okoh-christopher</a><br>
+    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/christopher-okoh-391933430/">linkedin.com/in/christopher-okoh</a><br>
     <strong>GitHub:</strong> <a href="https://github.com/kristopher1027">@kristopher1027</a><br>
     <!-- <strong>Portfolio:</strong> <a href="https://kristopher1027.github.io/kristopher1027/">@kristopher1027</a>  -->
   </p>
