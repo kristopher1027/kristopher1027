@@ -69,14 +69,43 @@ DevFlow AI is designed to help developers understand and manage their software p
 ```
 
 
-## 💼 Featured Projects
+### 🔨 Current Development
+
+- 🔧 Go backend
+- 🗄️ PostgreSQL
+- 🔌 REST API architecture
+- 👥 Workspace and membership management
+- 🔐 Authentication and authorization
+- 🧪 Unit and integration testing
+- 🐳 Docker-based development
+- 🗃️ Database migrations
+- 🏗️ Layered backend architecture
+
+### 🔮 Planned Capabilities
+
+- 🔗 GitHub repository integration
+- 📋 Issues and pull requests
+- 🔍 Code intelligence
+- 🧠 RAG-powered project understanding
+- 🤖 Context-aware AI engineering assistant
+- 🚀 CI/CD failure intelligence
+- 📚 Documentation intelligence
+- 📊 Observability and system monitoring
+
+The project is being developed incrementally with a focus on **security, scalability, maintainability, testing, and production-grade engineering practices**.
+
+🔗 **[View DevFlow AI →](https://github.com/kristopher1027/devflow-ai)**
+
+---
+
+## 💼 Other Projects
 
 | Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **🎨 ASCII Art Web** | Converts text into ASCII art with a web interface | Go, HTML/CSS, HTTP handlers |
-| **💳 VTU Platform** | Virtual top-up platform for airtime, data & bill payments | Go, PostgreSQL, REST APIs |
-| **⚙️ Go API Server** | Learning REST API development with authentication & middleware | Go, PostgreSQL, JWT |
-| **✅ Task Manager API** | Backend service for task management and collaboration | Go, PostgreSQL, Docker |
+|---------|-------------|------------|
+| 🎨 **ASCII Art Web** | Web application that converts text into ASCII art | Go, HTML/CSS |
+| 💳 **VTU Platform** | Virtual top-up platform for airtime, data and bill payments | Go, PostgreSQL, REST APIs |
+| ⚙️ **Go API Server** | REST API exploring authentication, middleware and backend architecture | Go, PostgreSQL, JWT |
+| ✅ **Task Manager API** | Backend service for task management and collaboration | Go, PostgreSQL, Docker |
 
 ---
 
