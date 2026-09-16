@@ -25,6 +25,39 @@ Backend-focused Software Developer passionate about **building scalable web appl
 
 ---
 
+## 🚀 Flagship Project
+
+### ⚙️ DevFlow AI
+
+**AI-powered engineering workspace for modern software development.**
+
+DevFlow AI is designed to help developers understand and manage their software projects from a single workspace.
+
+```text
+                    DEVFLOW AI
+                        │
+        ┌───────────────┼───────────────┐
+        │               │               │
+     Projects         GitHub          Tasks
+        │               │               │
+        └───────────────┼───────────────┘
+                        │
+                 Engineering Data
+                        │
+        ┌───────────────┼───────────────┐
+        │               │               │
+     CI/CD       Documentation       History
+        │               │               │
+        └───────────────┼───────────────┘
+                        │
+                Code Intelligence
+                        │
+                        ▼
+              🤖 AI Engineering
+                  Assistant
+```
+
+
 ## 💼 Featured Projects
 
 | Project | Description | Tech Stack |
