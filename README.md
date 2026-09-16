@@ -13,17 +13,28 @@
 ---
 
 
-## 🎯 About Me
+## 👋 About Me
 
-Backend-focused Software Developer passionate about **building scalable web applications**, **REST APIs**, and exploring **distributed systems**. I love solving complex problems and writing clean, maintainable code.
+I'm a **backend-focused software developer** passionate about building reliable, scalable systems and understanding how software works beneath the abstractions.
 
-- 🔧 Specializing in **Go (Golang)** for backend development
-- 📡 Building **REST APIs** and **web services**
-- 🗄️ Working with **PostgreSQL** and database design
-- 🏗️ Learning **System Design** and **Distributed Systems**
-- 🎓 Continuously improving problem-solving skills through **LeetCode** and **CodeCrafters** challenges
+My primary focus is **Go backend development**, with a strong interest in REST APIs, PostgreSQL, system architecture, security, testing, distributed systems, and AI-powered software engineering.
+
+I'm currently building **DevFlow AI**, my flagship software engineering project — an AI-powered engineering workspace designed to bring projects, tasks, GitHub repositories, issues, pull requests, CI/CD, documentation, code intelligence, and AI assistance into one platform.
+
+I enjoy working on:
+
+- 🔧 Backend architecture and Go development
+- 📡 REST APIs and service-oriented systems
+- 🗄️ PostgreSQL and database architecture
+- 🔐 Authentication, authorization, and application security
+- 🧪 Unit, integration, and database testing
+- 🐳 Docker and containerized development
+- 🏗️ System design and distributed systems
+- 🤖 AI engineering and Retrieval-Augmented Generation (RAG)
+- 🔍 Code intelligence and developer tooling
 
 ---
+
 
 ## 🚀 Flagship Project
 
